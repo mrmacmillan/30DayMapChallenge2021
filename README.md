@@ -1,6 +1,6 @@
 # #30DayMapChallenge 2021 🌎
 
-The #30DayMapChallenge is a daily mapping/cartography/data visualization challenge happening in November. No restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others. Learn more [here](https://30daymapchallenge.com/).
+The #30DayMapChallenge is a daily mapping/cartography/data visualization challenge that happens every November. There are no restriction on tools or data. No need to register anywhere. Just an excuse to make maps and admire maps made by others. Learn more [here](https://30daymapchallenge.com/).
 
 ## Day 1 - Points
 
