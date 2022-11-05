@@ -17,7 +17,7 @@ Created with ArcGIS Pro using Esri/John Nelson's Watercolor style.
 
 
 ## Day 3 - Polygons
-![Day 3 - Polygons](/main/Day03_Polygons_Soils.png)
+![Day 3 - Polygons](/Day03_Polygons_Soils.png)
 
 
 ## Day 4 - Hexagons
