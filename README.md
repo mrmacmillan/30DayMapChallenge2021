@@ -12,12 +12,14 @@ I geocoded the goat farms and IWMC drop-off centers using the provincial civic a
 Created with ArcGIS Pro using Esri/John Nelson's Watercolor style.
 
 
+
 ## Day 2 - Lines
 ![Day 2 - Lines](/Day02_Lines_WoodlotTrail.jpg)
 
 Rivers, roads, trails, SRTM-derived elevation contours, and wetlands (symbolized as dashed LINES). I even managed to find a transmission lines dataset in the [Government of Canada Open Data Portal](https://open.canada.ca/data/en/dataset/8ba2aa2a-7bb9-4448-b4d7-f164409fe056) to fill in that tell-tale powerline corridor through the forest.
 
 Created with ArcGIS Pro.
+
 
 
 ## Day 3 - Polygons
@@ -28,12 +30,14 @@ Western PEI is often referred to as "flat and wet", so what better way to verify
 Created with ArcGIS Pro.
 
 
+
 ## Day 4 - Hexagons
 ![Day 4 - Hexagons](/Day04_Hexagons_Texture.jpg)
 
 Several years ago I stumbled across a journal article on "road ecology" - the study of the impact of roads on wildlife and wildlife habitat that inspired this map. Despite its small size Prince Edward Island has a relatively high density of roads, leading to habitat fragmentation and potential landscape connectivity issues.
 
 Created with ArcGIS Pro.
+
 
 
 ## Day 5 - OpenStreetMap
@@ -43,10 +47,14 @@ OpenStreetMap data was downloaded in .PBF format from GEOFABRIK. GDAL/ogr2ogr wa
 
 Created with QGIS. Map data from OpenStreetMap.
 
+
+
 ## Day 6 - Red
 ![Day 6 - Red](/Day06_Red_Fire_Plot.png)
 
 Fire is red.
+
+
 
 ## Day 7 - Green
 ![Day 7 - Green](/Day07_Green_ForVolPro.png)
@@ -56,8 +64,11 @@ Forests are green. I wanted to recreate [this old map](https://www.davidrumsey.c
 Created using ArcGIS Pro
 
 
+
 ## Day 9 - Monochrome
 ![Day 9 - Monochrome](/Day09_Monochrome_MtLogan.jpg)
+
+Did you know Mount Logan is the highest mountain in Canada, and the second-highest peak in North America after Denali?
 
 
 
