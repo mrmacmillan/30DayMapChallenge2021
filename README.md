@@ -44,14 +44,24 @@ OpenStreetMap data was downloaded in .PBF format from GEOFABRIK. GDAL/ogr2ogr wa
 Created with QGIS. Map data from OpenStreetMap.
 
 ## Day 6 - Red
-![](/Day06_Red_Fire_Plot.png)
+![Day 6 - Red](/Day06_Red_Fire_Plot.png)
 
+Fire is red.
 
-## Day 8 - Green
-![](/Day08_Green_ForVolPro.png)
+## Day 7 - Green
+![Day 7 - Green](/Day07_Green_ForVolPro.png)
+
+Forests are green. I wanted to recreate [this old map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~221529~5505497:United-States-showing-the-Relative-?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q%3Aforest+density%3Bsort%3APub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No%3Blc%3ARUMSEY%7E8%7E1&mi=103&trs=133) showing the average density of forests, but for Canada. I used the data from the 2011 Canadian National Forest Inventory downloaded from the [Government of Canada Open Data Portal](https://open.canada.ca/data/en/dataset/ec9e2659-1c29-4ddb-87a2-6aced147a990).
+
+Created using ArcGIS Pro
 
 
 ## Day 9 - Monochrome
-![](/Day09_Monochrome_MtLogan.jpg)
+![Day 9 - Monochrome](/Day09_Monochrome_MtLogan.jpg)
 
 
+
+## Day 10 - Raster
+![Day 10 - Raster](Day10_Raster_NOGO.png)
+
+Predicting Northern Goshawk (NOGO) habitat in eastern Canada, and estimating how much is preserved in the Canadian Protected and Conserved Areas Database (CPCAD). NOGO habitat was estimated using stand age, stand height, canopy closure, patch size, and excluding urban or highly developed areas from the 2011 Canadian National Forest Inventory downloaded from the [Government of Canada Open Data Portal](https://open.canada.ca/data/en/dataset/ec9e2659-1c29-4ddb-87a2-6aced147a990).
